@@ -39,7 +39,6 @@ end
 # ----------------------------------------------------------------------------------------------------
 
 class Player
-  #TO DO : la classe a 2 attr_accessor, son nom, sa valeur (X ou O). Elle a un attr_writer : il a gagné ?
   attr_accessor :name, :symbol, :cell_chosen
   
   def initialize (name, symbol)
@@ -176,5 +175,3 @@ loop do
     game.display_board
   end
 end
- 
-
