@@ -6,9 +6,9 @@ Can't wait? Follow the guide 👇
 
 ~~~~
 $ git clone https://github.com/handacg/morpion.git$ 
-cd THP_TicTacToe
+$ cd morpion
 $ bundle install
-$ ruby Tic_tac_toe.rb.rb
+$ ruby Tic_tac_toe.rb
 ~~~~
 
 ## Who are the makers ?
