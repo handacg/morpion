@@ -1,7 +1,8 @@
 # TicTacToe
 
 ## What you should expect ?
-An awesome game,no kidding. Can't wait? Follow the guide 👇
+An awesome game, no kidding. <br/>
+Can't wait? Follow the guide 👇
 
 ~~~~
 $ git clone https://github.com/handacg/morpion.git$ 
